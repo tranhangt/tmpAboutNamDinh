@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/home_fragment"
+        android:padding="50dp"
+        android:gravity="center_vertical"
+        tools:context=".HomeFragment">
+
+        <!-- TODO: Update blank fragment layout -->
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal">
+            <ImageView
+                android:id="@+id/icFood"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_food"
+                />
+
+            <TextView
+                android:id="@+id/txtFood"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_toRightOf="@id/icFood"
+                android:text="Ẩm thực"
+                android:textSize="36dp" />
+
+    <!--        <Button-->
+    <!--            android:id="@+id/btnFood"-->
+    <!--            style="@style/Widget.AppCompat.Button.Colored"-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:layout_marginLeft="20dp"-->
+    <!--            android:layout_toRightOf="@id/txtFood"-->
+    <!--            android:text="Food" />-->
+        </RelativeLayout>
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal">
+            <ImageView
+                android:id="@+id/icPlace"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:src="@drawable/ic_place"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:id="@+id/txtPlace"
+                android:layout_marginLeft="10dp"
+                android:text="Địa điểm"
+                android:textSize="36dp"
+                android:layout_toRightOf="@id/icPlace"
+                />
+    <!--        <Button-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:id="@+id/btnPlace"-->
+    <!--            android:layout_toRightOf="@id/txtPlace"-->
+    <!--            android:layout_marginLeft="10dp"-->
+    <!--            android:text="Place"-->
+    <!--            />-->
+
+        ></RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:gravity="center_horizontal">
+            <ImageView
+                android:id="@+id/icPerson"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:src="@drawable/ic_person"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:id="@+id/txtPerson"
+                android:layout_marginLeft="10dp"
+                android:text="Con Người"
+                android:textSize="36dp"
+                android:layout_toRightOf="@id/icPerson"
+                />
+    <!--        <Button-->
+    <!--            android:layout_width="wrap_content"-->
+    <!--            android:layout_height="wrap_content"-->
+    <!--            android:id="@+id/btnPerson"-->
+    <!--            android:layout_toRightOf="@id/txtPerson"-->
+    <!--            android:layout_marginLeft="10dp"-->
+    <!--            android:text="Person"-->
+
+    <!--            />-->
+
+            ></RelativeLayout>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:src="@drawable/namdinh"
+            />
+
+    </LinearLayout>
+</ScrollView>

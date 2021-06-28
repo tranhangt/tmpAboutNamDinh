@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AboutNamDinh</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="food_1">Phở bò</string>
+    <string name="food_2">Bánh nhãn</string>
+    <string name="food_3">Nem nắm</string>
+    <string name="person_1">Nguyễn Hiền</string>
+    <string name="person_2">Trường Chinh</string>
+    <string name="person_3">Văn Cao</string>
+    <string name="place_1">Đền Trần</string>
+    <string name="place_2">Nhà thờ đổ Hải Lý</string>2
+    <string name="place_3">Chợ Viềng</string>
+
+    <string name="des_food_1">Giữa thủ đô của phở thì phở Nam Định vẫn giữ được những hương vị riêng, truyền thống như nó có cách đây 100 năm. Người ta truy tìm gốc gác, dòng họ của những bô lão thâm niên trong nghề nấu phở tại Hà Nội để cố kết luận rằng phở có gốc từ thành Nam.</string>
+    <string name="des_food_2">Bánh nhãn nhưng không phải được làm từ quả nhãn. Đặc sản Nam Định nổi tiếng này vẫn khiến du khách thích thú bởi sự ngọt ngào, ngậy béo của trứng. Bánh nhãn có màu vàng óng, tròn như long nhãn, hấp dẫn từ cái nhìn bề ngoài.Bánh chỉ được làm từ bột nếp quyện với trứng rồi chiên lên, thế mà giòn tan, hơi ngòn ngọt và bùi bùi. Ngồi nhấm nháp vui miệng, hoặc thưởng thức cùng tách trà mạn để làm dịu đi cái vị ngọt của bánh đều rất hợp.</string>
+    <string name="des_food_3">Nem năm được làm từ bì, thịt lợn trộn thính và gia vị, rồi được nắm lại trong lá sung. Điều đặc biệt nhất làm nên mùi thơm của nem nắm Giao Thủy chính là thính. Thính phải làm từ gạo tám thơm Nam Định. Gạo đem ngâm trong nước qua một đêm, sau đó đem rang lên rồi xay thành bột, có màu vàng ngà ngà, thơm phức, vị ngậy là đạt chuẩn. Thực khách thưởng thức món nem này sẽ cảm thấy vị hơi chua của thịt lên men, vị ngọt của thịt kèm vị thơm của thính rang, nhưng cũng ko hề bị hôi vì có: tỏi, lá sung, lá đinh lăng.</string>
+    <string name="des_person_1">Nguyễn Hiền (1234 - ?) đỗ trạng nguyên khi 13 tuổi. Ông là người làng Dương A, huyện Thượng Hiền, phủ Thiên Trường (nay là xã Nam Thắng, huyện Nam Trực, tỉnh Nam Định) trở thành trạng nguyên trẻ tuổi nhất trong lịch sử Việt </string>Nam
+    <string name="des_person_2">Trường Chinh (1907–1988) là một nhà cách mạng và chính trị gia của Việt Nam. Ông đã giữ các chức vụ quan trọng trong hệ thống chính trị của Việt Nam như Tổng bí thư của Đảng Cộng sản Việt Nam (là nhân vật duy nhất hai lần giữ chức Tổng Bí thư), Chủ tịch Hội đồng Nhà nước và Chủ tịch Quốc hội Việt Nam. Ông còn là một nhà thơ với bút danh Sóng Hồng.Ông tên thật là Đặng Xuân Khu, sinh ngày 9 tháng 2 năm 1907, ở thôn Hành Thiện, xã Xuân Hồng, huyện Xuân Trường ,tỉnh Nam Định. Cụ nội ông là cụ Đặng Xuân Bảng</string>
+    <string name="des_person_3">Văn Cao (1923 - 1995), tên thật là Nguyễn Văn Cao, sinh ngày 15-11-1923, tại phường Lạch Tray - Hải Phòng. Nguyên quán của ông là làng An Lễ, xã Liên Minh, huyện Vụ Bản. Nhà nước truy tặng Giải thưởng Hồ Chí Minh đợt 1 cho cụm ca khúc: Tiến quân ca, Chiến sĩ Việt Nam, Làng tôi, Sông Lô, Tiến về Hà Nội, Ca ngợi Hồ Chủ tịch,...</string>
+    <string name="des_place_1">Khu di tích Đền Trần Nam Định thờ 14 vị vua nhà Trần cùng gia quyến và các quan lại có công phù tá. Nơi đây còn nổi tiếng với Lễ khai ấn Đền Trần đầu xuân và Hội Đền Trần tháng tám, thu hút đông đảo người dân và du khách thập phương về dự, tri ân công đức các vua Trần và cầu mong những điều tốt đẹp.</string>
+    <string name="des_place_2">Đây là địa điểm du lịch nổi tiếng tại Nam Định thu hút giới trẻ, đặc biệt là các nhiếp ảnh gia về đây chụp ảnh bởi lối kiến trúc cũng như câu chuyện về nhà thờ đổ đã làm “si mê” du khách khi ghé thăm.</string>
+    <string name="des_place_3">Chợ Viềng (lối gọi theo tiếng cổ của Chợ Xuân) là phiên chợ đầu năm họp vào đêm mùng 7 ngày mùng 8 ở Nam Định. Theo gia phả họ Trần thì chợ Viềng có từ thời cổ xưa và hình thành theo tục lệ làng xã của người dân địa phương. Từ " Viềng" là từ Hán Việt có nghĩa là: thăm hỏi, viếng thăm, trò chuyện</string>
+</resources>
